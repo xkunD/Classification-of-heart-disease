@@ -1,4 +1,4 @@
-# Classification-of-heart-disease-uci-data-
+# Classification-of-heart-disease
 Using some machine learning classification model to classify if a patient have heart disease or not.
 
 [You can download the Dataset](https://www.kaggle.com/ronitf/heart-disease-uci)
